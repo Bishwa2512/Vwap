@@ -1,3 +1,4 @@
+from logger import log_trade
 import time
 import datetime
 import math
